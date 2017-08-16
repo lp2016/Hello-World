@@ -1,4 +1,1 @@
-print 'hello world'
-print 'nihao'
-print 'feature-A'
-print 'feature-C'
+print 'feature-c'
